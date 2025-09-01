@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BindIO, a scripting and automation tool for Linux Desktop Environments<br>🌱 I’m currently learning X11 internals and the Bevy game engine
+🔭 I’m currently working on BindIO, a scripting and automation tool for Linux Desktop Environments<br>🌱 I’m currently learning X11 internals and the Bevy game engine<br>⚡ Always experimenting with new tech
 
 
 ## 🌐 Socials:
